@@ -12,6 +12,7 @@ Color Code:
 * Residential Neighborhoods: Purple
 * Shopping: Pink
 * Professional Buildings: Grey
+* Parking Lot: Black
 
 ##### Basic Layouts
 Choose one of the examples below to get yourself started. These examples will use the **grid-template-columns**, **grid-template-rows**, and **grid-gap** properties. Keep in mind the different methods you can use to designate the sizes of rows and columns, as well as how to use **repeat** to make columns or rows of equal sizes! If you're not sure where to get started, check out the glossary.md file, which contains of a list of CSS-Grid properties and ways you can use them!
@@ -23,7 +24,9 @@ Choose one of the examples below to get yourself started. These examples will us
 <!--  -->
 
 ##### Intermediate Layouts
-Now that you've gotten your city planning feet wet, it's time to take a look at some special properties our grids can have. You may want to consider **auto-fit**, **auto-fill**, **minmax**, and most importantly, **span** properties to complete one of the options below.
+Now that you've gotten your city planning feet wet, it's time to take a look at some special properties our grids can have. You'll be building out a shopping mall with plenty of stores and enough parking to keep the customers happy. You may want to consider **auto-fit**, **auto-fill**, **minmax**, and most importantly, **span** properties to complete one of the options below.
+![](https://media.giphy.com/media/BWC428Ds1JSZInOFFm/giphy.gif)
+![](https://media.giphy.com/media/EQnJgIR3wUmawCtU0d/giphy.gif)
 
 
 ##### Advanced Image Layout
