@@ -25,10 +25,11 @@ Choose one of the examples below to get yourself started. These examples will us
 
 ##### Intermediate Layouts
 Now that you've gotten your city planning feet wet, it's time to take a look at some special properties our grids can have. You'll be building out a shopping mall with plenty of stores and enough parking to keep the customers happy. You may want to consider **auto-fit**, **auto-fill**, **minmax**, and most importantly, **span** properties to complete one of the options below.
+
 ![](https://media.giphy.com/media/BWC428Ds1JSZInOFFm/giphy.gif)
 ![](https://media.giphy.com/media/EQnJgIR3wUmawCtU0d/giphy.gif)
 
 
 ##### Advanced Image Layout
 Now that you've completed the mockups requested of you, you've decided to make an inspiration board for future projects. This will display images of different cities to inspire you and get the creative juices flowing the next time you need to plan a city. You'll need to add your own classes into the html and you'll be applying all of the properties we've looked at so far. In addition, you'll need to check out the **grid-auto-flow** property...
-![](https://media.giphy.com/media/l4pT0Yn22kuutYwfK/giphy.gif)
+![](https://media.giphy.com/media/3GBTeCAxhHqR1FC4Io/giphy.gif)
